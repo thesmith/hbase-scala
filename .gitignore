@@ -1,0 +1,8 @@
+target
+.classpath
+.project
+bin
+project/boot
+lib_managed
+src_managed
+.scala_dependencies
